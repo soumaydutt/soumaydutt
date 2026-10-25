@@ -34,13 +34,6 @@ Engineer soumay = new Engineer(
 `MongoDB` `MySQL` `DuckDB` `InfluxDB` `Grafana`
 `REST` `gRPC` `OAuth` `MCP` `Git`
 
-### `github.exe`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumaydutt&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumaydutt&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used languages" />
-</p>
-
 ---
 
 ### 🐍 Watch the snake eat my contributions
