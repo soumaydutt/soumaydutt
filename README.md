@@ -22,38 +22,51 @@
 
 **Languages & backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<a href="https://www.java.com" target="_blank"><img align="left" title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img align="left" title="Spring Boot" alt="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
+<a href="https://go.dev" target="_blank"><img align="left" title="Go" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img align="left" title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
+<a href="https://react.dev" target="_blank"><img align="left" title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+
+<br/>
+<br/>
 
 **Infra & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+<a href="https://www.docker.com" target="_blank"><img align="left" title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
+<a href="https://kubernetes.io" target="_blank"><img align="left" title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a>
+<a href="https://aws.amazon.com" target="_blank"><img align="left" title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
+<a href="https://helm.sh" target="_blank"><img align="left" title="Helm" alt="Helm" width="40px" src="https://cdn.simpleicons.org/helm" /></a>
+<a href="https://argo-cd.readthedocs.io" target="_blank"><img align="left" title="Argo CD" alt="Argo CD" width="40px" src="https://cdn.simpleicons.org/argocd" /></a>
+
+<br/>
+<br/>
 
 **Databases & observability**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+<a href="https://www.mongodb.com" target="_blank"><img align="left" title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
+<a href="https://www.mysql.com" target="_blank"><img align="left" title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img align="left" title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
+<a href="https://redis.io" target="_blank"><img align="left" title="Redis" alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a>
+<a href="https://duckdb.org" target="_blank"><img align="left" title="DuckDB" alt="DuckDB" width="40px" src="https://cdn.simpleicons.org/duckdb" /></a>
+<a href="https://www.influxdata.com" target="_blank"><img align="left" title="InfluxDB" alt="InfluxDB" width="40px" src="https://cdn.simpleicons.org/influxdb" /></a>
+<a href="https://grafana.com" target="_blank"><img align="left" title="Grafana" alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a>
+
+<br/>
+<br/>
 
 **Protocols & tools**
 
-![REST](https://img.shields.io/badge/REST-000000?style=flat)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+<a href="https://git-scm.com" target="_blank"><img align="left" title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
+<a href="https://grpc.io" target="_blank"><img align="left" title="gRPC" alt="gRPC" width="40px" src="https://cdn.simpleicons.org/grpc" /></a>
+
+<br/>
+<br/>
+
+<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"><img src="https://img.shields.io/badge/REST-000000?style=flat" alt="REST" /></a>
+<a href="https://oauth.net" target="_blank"><img src="https://img.shields.io/badge/OAuth-000000?style=flat" alt="OAuth" /></a>
+<a href="https://modelcontextprotocol.io" target="_blank"><img src="https://img.shields.io/badge/MCP-000000?style=flat" alt="MCP" /></a>
 
 </details>
 
