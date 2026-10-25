@@ -36,9 +36,7 @@
 
 <a href="https://www.docker.com" target="_blank"><img align="left" title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 <a href="https://kubernetes.io" target="_blank"><img align="left" title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img align="left" title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
 <a href="https://helm.sh" target="_blank"><img align="left" title="Helm" alt="Helm" width="40px" src="https://cdn.simpleicons.org/helm" /></a>
-<a href="https://argo-cd.readthedocs.io" target="_blank"><img align="left" title="Argo CD" alt="Argo CD" width="40px" src="https://cdn.simpleicons.org/argocd" /></a>
 
 <br/>
 <br/>
@@ -59,11 +57,13 @@
 **Protocols & tools**
 
 <a href="https://git-scm.com" target="_blank"><img align="left" title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
-<a href="https://grpc.io" target="_blank"><img align="left" title="gRPC" alt="gRPC" width="40px" src="https://cdn.simpleicons.org/grpc" /></a>
 
 <br/>
 <br/>
 
+<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+<a href="https://argo-cd.readthedocs.io" target="_blank"><img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo CD" /></a>
+<a href="https://grpc.io" target="_blank"><img src="https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white" alt="gRPC" /></a>
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"><img src="https://img.shields.io/badge/REST-000000?style=flat" alt="REST" /></a>
 <a href="https://oauth.net" target="_blank"><img src="https://img.shields.io/badge/OAuth-000000?style=flat" alt="OAuth" /></a>
 <a href="https://modelcontextprotocol.io" target="_blank"><img src="https://img.shields.io/badge/MCP-000000?style=flat" alt="MCP" /></a>
