@@ -25,7 +25,6 @@ Engineer soumay = new Engineer(
 - ⚙️ Built production systems at a data observability startup.
 - 🧠 Exploring distributed systems, AI agents, and infrastructure.
 - 🛠️ Obsessed with understanding how things work under the hood.
-- 🎯 Open to SDE-1 / Backend Engineering opportunities.
 
 ### `toolbox`
 
