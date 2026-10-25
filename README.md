@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Soumay 👋</h1>
+<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Soumay</h1>
 
 <h3 align="center">Backend Engineer · Systems Thinker · Builder</h3>
 
@@ -52,6 +52,11 @@
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**📚 Currently learning**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 </details>
 
