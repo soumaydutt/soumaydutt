@@ -12,16 +12,6 @@
 
 ---
 
-### `whoami`
-
-```java
-Engineer soumay = new Engineer(
-    "Backend & Distributed Systems",
-    "Developer Tools & AI",
-    "Building things from 0 → 1"
-);
-```
-
 - ⚙️ Built production systems at a data observability startup.
 - 🧠 Exploring distributed systems, AI agents, and infrastructure.
 - 🛠️ Obsessed with understanding how things work under the hood.
