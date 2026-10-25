@@ -12,9 +12,9 @@
 
 ---
 
-- ⚙️ Built production systems at a data observability startup.
-- 🧠 Exploring distributed systems, AI agents, and infrastructure.
-- 🛠️ Obsessed with understanding how things work under the hood.
+- ⚙️ Building backend systems for production, where reliability, latency, and operability matter more than features shipped.
+- 🧠 Focused on distributed systems, infrastructure, and AI agents in real systems, not just demos.
+- 🛠️ Curious about observability tooling, and about how systems actually behave under load and failure, not just on paper.
 
 ### `toolbox`
 
