@@ -15,6 +15,7 @@
 - ⚙️ Backend systems, and the observability tools around them.
 - 🧠 Distributed systems, infrastructure, and AI agents.
 - 🛠️ I like understanding how things work under the hood.
+- 📚 Currently exploring: `Rust` · `Flyway` · `MySQL → PostgreSQL migration` · `LLM abliteration`
 
 <details>
 <summary><b>🧰 toolbox</b> — click to open</summary>
@@ -30,6 +31,8 @@
 <a href="https://react.dev" target="_blank"><img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 <a href="https://expressjs.com" target="_blank"><img title="Express.js" alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
+<a href="https://www.python.org" target="_blank"><img title="Python" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+<a href="https://www.lua.org" target="_blank"><img title="Lua" alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></a>
 
 <br/>
 <br/>
