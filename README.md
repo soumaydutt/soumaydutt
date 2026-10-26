@@ -25,55 +25,55 @@
 
 **Languages & backend**
 
-<a href="https://www.java.com" target="_blank"><img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img title="Spring Boot" alt="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
-<a href="https://go.dev" target="_blank"><img title="Go" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-<a href="https://nodejs.org" target="_blank"><img title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
-<a href="https://react.dev" target="_blank"><img title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-<a href="https://expressjs.com" target="_blank"><img title="Express.js" alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
-<a href="https://www.python.org" target="_blank"><img title="Python" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-<a href="https://www.lua.org" target="_blank"><img title="Lua" alt="Lua" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" /></a>
+<a href="https://www.java.com" target="_blank"><img title="Java" alt="Java" width="40px" src="./assets/toolbox-animated/java.svg" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img title="Spring Boot" alt="Spring Boot" width="40px" src="./assets/toolbox-animated/spring-boot.svg" /></a>
+<a href="https://go.dev" target="_blank"><img title="Go" alt="Go" width="40px" src="./assets/toolbox-animated/go.svg" /></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img title="TypeScript" alt="TypeScript" width="40px" src="./assets/toolbox-animated/typescript.svg" /></a>
+<a href="https://nodejs.org" target="_blank"><img title="Node.js" alt="Node.js" width="40px" src="./assets/toolbox-animated/nodejs.svg" /></a>
+<a href="https://react.dev" target="_blank"><img title="React" alt="React" width="40px" src="./assets/toolbox-animated/react.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" width="40px" src="./assets/toolbox-animated/javascript.svg" /></a>
+<a href="https://expressjs.com" target="_blank"><img title="Express.js" alt="Express.js" width="40px" src="./assets/toolbox-animated/express.svg" /></a>
+<a href="https://www.python.org" target="_blank"><img title="Python" alt="Python" width="40px" src="./assets/toolbox-animated/python.svg" /></a>
+<a href="https://www.lua.org" target="_blank"><img title="Lua" alt="Lua" width="40px" src="./assets/toolbox-animated/lua.svg" /></a>
 
 <br/>
 <br/>
 
 **Infra & DevOps**
 
-<a href="https://www.docker.com" target="_blank"><img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
-<a href="https://kubernetes.io" target="_blank"><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
-<a href="https://helm.sh" target="_blank"><img title="Helm" alt="Helm" width="40px" src="https://cdn.simpleicons.org/helm" /></a>
-<a href="https://argo-cd.readthedocs.io" target="_blank"><img title="Argo CD" alt="Argo CD" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" /></a>
-<a href="https://github.com/features/actions" target="_blank"><img title="GitHub Actions" alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /></a>
-<a href="https://gradle.org" target="_blank"><img title="Gradle" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /></a>
+<a href="https://www.docker.com" target="_blank"><img title="Docker" alt="Docker" width="40px" src="./assets/toolbox-animated/docker.svg" /></a>
+<a href="https://kubernetes.io" target="_blank"><img title="Kubernetes" alt="Kubernetes" width="40px" src="./assets/toolbox-animated/kubernetes.svg" /></a>
+<a href="https://aws.amazon.com" target="_blank"><img title="AWS" alt="AWS" width="40px" src="./assets/toolbox-animated/aws.svg" /></a>
+<a href="https://helm.sh" target="_blank"><img title="Helm" alt="Helm" width="40px" src="./assets/toolbox-animated/helm.svg" /></a>
+<a href="https://argo-cd.readthedocs.io" target="_blank"><img title="Argo CD" alt="Argo CD" width="40px" src="./assets/toolbox-animated/argocd.svg" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img title="GitHub Actions" alt="GitHub Actions" width="40px" src="./assets/toolbox-animated/github-actions.svg" /></a>
+<a href="https://gradle.org" target="_blank"><img title="Gradle" alt="Gradle" width="40px" src="./assets/toolbox-animated/gradle.svg" /></a>
 
 <br/>
 <br/>
 
 **Databases & observability**
 
-<a href="https://www.mongodb.com" target="_blank"><img title="MongoDB" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
-<a href="https://www.mysql.com" target="_blank"><img title="MySQL" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.postgresql.org" target="_blank"><img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
-<a href="https://redis.io" target="_blank"><img title="Redis" alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></a>
-<a href="https://duckdb.org" target="_blank"><img title="DuckDB" alt="DuckDB" width="40px" src="https://cdn.simpleicons.org/duckdb" /></a>
-<a href="https://www.influxdata.com" target="_blank"><img title="InfluxDB" alt="InfluxDB" width="40px" src="https://cdn.simpleicons.org/influxdb" /></a>
-<a href="https://grafana.com" target="_blank"><img title="Grafana" alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a>
-<a href="https://victoriametrics.com" target="_blank"><img title="VictoriaMetrics" alt="VictoriaMetrics" width="40px" src="https://cdn.simpleicons.org/victoriametrics" /></a>
-<a href="https://prometheus.io" target="_blank"><img title="Prometheus" alt="Prometheus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /></a>
-<a href="https://parquet.apache.org" target="_blank"><img title="Parquet" alt="Parquet" width="40px" src="https://cdn.simpleicons.org/apacheparquet" /></a>
+<a href="https://www.mongodb.com" target="_blank"><img title="MongoDB" alt="MongoDB" width="40px" src="./assets/toolbox-animated/mongodb.svg" /></a>
+<a href="https://www.mysql.com" target="_blank"><img title="MySQL" alt="MySQL" width="40px" src="./assets/toolbox-animated/mysql.svg" /></a>
+<a href="https://www.postgresql.org" target="_blank"><img title="PostgreSQL" alt="PostgreSQL" width="40px" src="./assets/toolbox-animated/postgresql.svg" /></a>
+<a href="https://redis.io" target="_blank"><img title="Redis" alt="Redis" width="40px" src="./assets/toolbox-animated/redis.svg" /></a>
+<a href="https://duckdb.org" target="_blank"><img title="DuckDB" alt="DuckDB" width="40px" src="./assets/toolbox-animated/duckdb.svg" /></a>
+<a href="https://www.influxdata.com" target="_blank"><img title="InfluxDB" alt="InfluxDB" width="40px" src="./assets/toolbox-animated/influxdb.svg" /></a>
+<a href="https://grafana.com" target="_blank"><img title="Grafana" alt="Grafana" width="40px" src="./assets/toolbox-animated/grafana.svg" /></a>
+<a href="https://victoriametrics.com" target="_blank"><img title="VictoriaMetrics" alt="VictoriaMetrics" width="40px" src="./assets/toolbox-animated/victoriametrics.svg" /></a>
+<a href="https://prometheus.io" target="_blank"><img title="Prometheus" alt="Prometheus" width="40px" src="./assets/toolbox-animated/prometheus.svg" /></a>
+<a href="https://parquet.apache.org" target="_blank"><img title="Parquet" alt="Parquet" width="40px" src="./assets/toolbox-animated/parquet.svg" /></a>
 
 <br/>
 <br/>
 
 **Protocols & tools**
 
-<a href="https://git-scm.com" target="_blank"><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
-<a href="https://grpc.io" target="_blank"><img title="gRPC" alt="gRPC" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" /></a>
-<a href="https://oauth.net" target="_blank"><img title="OAuth" alt="OAuth" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" /></a>
-<a href="https://modelcontextprotocol.io" target="_blank"><img title="MCP" alt="MCP" width="40px" src="https://cdn.simpleicons.org/modelcontextprotocol" /></a>
+<a href="https://git-scm.com" target="_blank"><img title="Git" alt="Git" width="40px" src="./assets/toolbox-animated/git.svg" /></a>
+<a href="https://grpc.io" target="_blank"><img title="gRPC" alt="gRPC" width="40px" src="./assets/toolbox-animated/grpc.svg" /></a>
+<a href="https://oauth.net" target="_blank"><img title="OAuth" alt="OAuth" width="40px" src="./assets/toolbox-animated/oauth.svg" /></a>
+<a href="https://modelcontextprotocol.io" target="_blank"><img title="MCP" alt="MCP" width="40px" src="./assets/toolbox-animated/mcp.svg" /></a>
 
 <br clear="both" />
 
