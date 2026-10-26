@@ -15,6 +15,7 @@
 - ⚙️ Backend systems, and the observability tools around them.
 - 🧠 Distributed systems, infrastructure, and AI agents.
 - 🛠️ I like understanding how things work under the hood.
+- ♟️ I love playing chess — always up for a match.
 - 📚 Currently exploring:
   <br>
   <img src="./assets/typing-exploring.svg" alt="Currently exploring: Rust, Flyway, MySQL to PostgreSQL migration, LLM abliteration" />
