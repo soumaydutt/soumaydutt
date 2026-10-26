@@ -17,7 +17,7 @@
 - 🛠️ I like understanding how things work under the hood.
 - 📚 Currently exploring:
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=300&color=D180FF&width=500&lines=Rust;Flyway;MySQL+%E2%86%92+PostgreSQL+migration;LLM+abliteration" alt="Currently exploring: Rust, Flyway, MySQL to PostgreSQL migration, LLM abliteration" />
+  <img src="./assets/typing-exploring.svg" alt="Currently exploring: Rust, Flyway, MySQL to PostgreSQL migration, LLM abliteration" />
 
 <details>
 <summary><b>🧰 toolbox</b> — click to open</summary>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 50" width="500px" height="50px" role="img" aria-label="Currently exploring: Rust, Flyway, MySQL to PostgreSQL migration, LLM abliteration">
+  <!-- Self-hosted typing animation. Same trick as readme-typing-svg,
+       without the hosted service: each line sits on a <textPath> whose
+       path grows (revealing the text left-to-right), holds, then
+       shrinks (erasing it), then the next line starts. One <animate>
+       per line, chained by begin="previous.end", looping via the
+       first line's begin="0s;d3.end". Per line ~2.3s total:
+       ~1.6s type, ~0.35s hold, ~0.35s erase. -->
+  <style>text{font-family:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;font-size:20px;fill:#D180FF}</style>
+  <path id="path0"><animate id="d0" attributeName="d" begin="0s;d3.end" dur="2300ms" fill="remove" values="m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0" keyTimes="0;0.7;0.85;1" /></path>
+  <text><textPath xlink:href="#path0">Rust</textPath></text>
+  <path id="path1"><animate id="d1" attributeName="d" begin="d0.end" dur="2300ms" fill="remove" values="m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0" keyTimes="0;0.7;0.85;1" /></path>
+  <text><textPath xlink:href="#path1">Flyway</textPath></text>
+  <path id="path2"><animate id="d2" attributeName="d" begin="d1.end" dur="2300ms" fill="remove" values="m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0" keyTimes="0;0.7;0.85;1" /></path>
+  <text><textPath xlink:href="#path2">MySQL → PostgreSQL migration</textPath></text>
+  <path id="path3"><animate id="d3" attributeName="d" begin="d2.end" dur="2300ms" fill="remove" values="m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0" keyTimes="0;0.7;0.85;1" /></path>
+  <text><textPath xlink:href="#path3">LLM abliteration</textPath></text>
+</svg>
