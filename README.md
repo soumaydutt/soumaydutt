@@ -33,6 +33,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 <a href="https://expressjs.com" target="_blank"><img align="left" title="Express.js" alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
 <a href="https://jwt.io" target="_blank"><img align="left" title="JWT" alt="JWT" width="40px" src="https://cdn.simpleicons.org/jsonwebtokens" /></a>
+<a href="https://junit.org" target="_blank"><img align="left" title="JUnit" alt="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /></a>
 
 <br/>
 <br/>
@@ -57,6 +58,7 @@
 <a href="https://cloud.google.com" target="_blank"><img align="left" title="GCP" alt="GCP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /></a>
 <a href="https://azure.microsoft.com" target="_blank"><img align="left" title="Azure" alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></a>
 <a href="https://github.com/features/actions" target="_blank"><img align="left" title="GitHub Actions" alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /></a>
+<a href="https://gradle.org" target="_blank"><img align="left" title="Gradle" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /></a>
 
 <br/>
 <br/>
@@ -83,14 +85,6 @@
 <a href="https://grpc.io" target="_blank"><img align="left" title="gRPC" alt="gRPC" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" /></a>
 <a href="https://oauth.net" target="_blank"><img align="left" title="OAuth" alt="OAuth" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" /></a>
 <a href="https://modelcontextprotocol.io" target="_blank"><img align="left" title="MCP" alt="MCP" width="40px" src="https://cdn.simpleicons.org/modelcontextprotocol" /></a>
-
-<br/>
-<br/>
-
-**Engineering**
-
-<a href="https://junit.org" target="_blank"><img align="left" title="JUnit" alt="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /></a>
-<a href="https://gradle.org" target="_blank"><img align="left" title="Gradle" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /></a>
 
 <br/>
 <br/>
