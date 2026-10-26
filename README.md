@@ -70,7 +70,11 @@
 <a href="https://oauth.net" target="_blank"><img align="left" title="OAuth" alt="OAuth" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" /></a>
 <a href="https://modelcontextprotocol.io" target="_blank"><img align="left" title="MCP" alt="MCP" width="40px" src="https://cdn.simpleicons.org/modelcontextprotocol" /></a>
 
+<br clear="both" />
+
 </details>
+
+<br clear="both" />
 
 ---
 
