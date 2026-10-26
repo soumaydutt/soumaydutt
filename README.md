@@ -74,17 +74,11 @@
 
 ---
 
-### 🐍 Watch the snake eat my contributions
+### 🏙️ Contribution city
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/soumaydutt/soumaydutt/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/soumaydutt/soumaydutt/output/github-snake.svg">
-    <img alt="GitHub contribution snake animation"
-         src="https://raw.githubusercontent.com/soumaydutt/soumaydutt/output/github-snake.svg">
-  </picture>
+  <img alt="Isometric 3D contribution city — one building per day, taller and brighter for busier days"
+       src="./assets/contribution-city-purple.svg" width="100%">
 </p>
 
 ---
