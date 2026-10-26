@@ -1,5 +1,14 @@
 """Standalone extract of georgekobaidze's contribution-city only.
 
+Original work: georgekobaidze/georgekobaidze, tools/profile/render.py
+(build_city), MIT License, Copyright (c) 2026 Giorgi Kobaidze.
+MIT permission (summary): use, copy, modify, merge, publish and
+distribute are permitted provided this copyright notice and the
+permission notice are included in all copies or substantial portions.
+This file is a modified extract: console frame stripped, colours,
+grid, legend and blink logic changed, data source changed to the
+GitHub GraphQL API. The full MIT text is in the original repo's LICENSE.
+
 Source geometry (tools/profile/render.py, build_city):
   iso tile 25 x 12.5, origin (152.5, 262), tallest building 118px,
   height = 8 + (118-8) * sqrt(n / peak), roofs by GitHub-style quartiles,
@@ -269,7 +278,10 @@ def build_city(calendar, updated):
     desc = (f"Contribution city: an isometric night skyline with one building per day of the last year, "
             f"taller and brighter for busier days. {total:,} contributions"
             + (f", busiest day {busiest_d:%B} {busiest_d.day} with {busiest_n}" if busiest_n else "") + ".")
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="t d">
+    svg = f'''<!-- Contribution city geometry adapted from georgekobaidze/georgekobaidze
+     (tools/profile/render.py, build_city), MIT License, Copyright (c) 2026
+     Giorgi Kobaidze. Colours, grid, legend and blink logic modified. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="t d">
 <title id="t">Contribution city — soumaydutt</title>
 <desc id="d">{e(desc)}</desc>
 <style>{css}</style>

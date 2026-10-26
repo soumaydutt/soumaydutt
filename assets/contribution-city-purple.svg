@@ -1,3 +1,6 @@
+<!-- Contribution city geometry adapted from georgekobaidze/georgekobaidze
+     (tools/profile/render.py, build_city), MIT License, Copyright (c) 2026
+     Giorgi Kobaidze. Colours, grid, legend and blink logic modified. -->
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="680" viewBox="0 0 880 680" role="img" aria-labelledby="t d">
 <title id="t">Contribution city — soumaydutt</title>
 <desc id="d">Contribution city: an isometric night skyline with one building per day of the last year, taller and brighter for busier days. 420 contributions, busiest day October 23 with 31.</desc>
