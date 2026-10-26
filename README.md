@@ -28,21 +28,8 @@
 <a href="https://www.typescriptlang.org" target="_blank"><img align="left" title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" title="Node.js" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
 <a href="https://react.dev" target="_blank"><img align="left" title="React" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-<a href="https://isocpp.org" target="_blank"><img align="left" title="C++" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a>
-<a href="https://en.cppreference.com/w/c/language" target="_blank"><img align="left" title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 <a href="https://expressjs.com" target="_blank"><img align="left" title="Express.js" alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></a>
-<a href="https://jwt.io" target="_blank"><img align="left" title="JWT" alt="JWT" width="40px" src="https://cdn.simpleicons.org/jsonwebtokens" /></a>
-<a href="https://junit.org" target="_blank"><img align="left" title="JUnit" alt="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /></a>
-
-<br/>
-<br/>
-
-**Frontend**
-
-<a href="https://tailwindcss.com" target="_blank"><img align="left" title="TailwindCSS" alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
-<a href="https://vite.dev" target="_blank"><img align="left" title="Vite" alt="Vite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" /></a>
-<a href="https://www.chartjs.org" target="_blank"><img align="left" title="Chart.js" alt="Chart.js" width="40px" src="https://cdn.simpleicons.org/chartdotjs" /></a>
 
 <br/>
 <br/>
@@ -54,9 +41,6 @@
 <a href="https://aws.amazon.com" target="_blank"><img align="left" title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
 <a href="https://helm.sh" target="_blank"><img align="left" title="Helm" alt="Helm" width="40px" src="https://cdn.simpleicons.org/helm" /></a>
 <a href="https://argo-cd.readthedocs.io" target="_blank"><img align="left" title="Argo CD" alt="Argo CD" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" /></a>
-<a href="https://developer.hashicorp.com/terraform" target="_blank"><img align="left" title="Terraform" alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /></a>
-<a href="https://cloud.google.com" target="_blank"><img align="left" title="GCP" alt="GCP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /></a>
-<a href="https://azure.microsoft.com" target="_blank"><img align="left" title="Azure" alt="Azure" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /></a>
 <a href="https://github.com/features/actions" target="_blank"><img align="left" title="GitHub Actions" alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /></a>
 <a href="https://gradle.org" target="_blank"><img align="left" title="Gradle" alt="Gradle" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /></a>
 
@@ -85,15 +69,6 @@
 <a href="https://grpc.io" target="_blank"><img align="left" title="gRPC" alt="gRPC" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" /></a>
 <a href="https://oauth.net" target="_blank"><img align="left" title="OAuth" alt="OAuth" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" /></a>
 <a href="https://modelcontextprotocol.io" target="_blank"><img align="left" title="MCP" alt="MCP" width="40px" src="https://cdn.simpleicons.org/modelcontextprotocol" /></a>
-
-<br/>
-<br/>
-
-<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"><img src="https://img.shields.io/badge/REST-000000?style=flat" alt="REST" /></a>
-<a href="https://spring.io/projects/spring-data-jpa" target="_blank"><img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Data JPA" /></a>
-<a href="https://protobuf.dev" target="_blank"><img src="https://img.shields.io/badge/Protobuf-000000?style=flat" alt="Protobuf" /></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-000000?style=flat" alt="SQL" /></a>
-<a href="https://prometheus.io/docs/prometheus/latest/querying/basics/" target="_blank"><img src="https://img.shields.io/badge/PromQL-E6522C?style=flat" alt="PromQL" /></a>
 
 </details>
 
