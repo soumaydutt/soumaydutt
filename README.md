@@ -82,7 +82,6 @@
 
 - [indianlingo](https://github.com/soumaydutt/indianlingo) — Duolingo-style app for learning Indian languages · `TypeScript` `CSS`
 - [mail-intelligence-platform](https://github.com/soumaydutt/mail-intelligence-platform) · `Java` `TypeScript` `JavaScript`
-- [Design-Bus-Seat-Visualiser-for-leetcode-contest-523-](https://github.com/soumaydutt/Design-Bus-Seat-Visualiser-for-leetcode-contest-523-) — visualiser for question 3 of the 523rd LeetCode contest · `HTML` `Java`
 
 ---
 
