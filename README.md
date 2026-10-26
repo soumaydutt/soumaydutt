@@ -85,11 +85,11 @@
 
 ### 📂 Projects
 
-- [mail-intelligence-platform](https://github.com/soumaydutt/mail-intelligence-platform) — MailGuard: checks if an email address looks deliverable without ever touching the mailbox — format validation plus DNS/MX routing checks, with full validation history and a dashboard · `Java` `TypeScript` `JavaScript`
-- [indianlingo](https://github.com/soumaydutt/indianlingo) — building a Duolingo-style app for Indian languages: gamified lessons, starting English → Hindi, designed to scale to all major Indian languages · `TypeScript` `CSS`
-- [excalibur-web-access](https://github.com/soumaydutt/projects/tree/main/excalibur-web-access) — full-stack billing and customer-care platform for telecom/ISP providers: customer 360, invoicing, payments, collections and role-based access, on .NET 8 + React · `C#` `TypeScript`
-- [smart-pill-dispenser-app](https://github.com/soumaydutt/projects/tree/main/smart-pill-dispenser-app) — medication companion for patients and caregivers: next-dose dashboard, adherence tracking and dose history, built with Expo + React Native · `TypeScript`
-- [ExplainableChess-main](https://github.com/soumaydutt/projects/tree/main/ExplainableChess-main) — teaches a small language model to explain chess like a human coach: Stockfish-labelled positions fine-tuned into GPT-2, so it says why a move works, not just what to play · `Python`
+- [mail-intelligence-platform](https://github.com/soumaydutt/mail-intelligence-platform) — MailGuard: checks if an email address looks deliverable without ever touching the mailbox — format validation plus DNS/MX routing checks, with full validation history and a dashboard · `Java 76%` `TypeScript 18%` `JavaScript 5%`
+- [indianlingo](https://github.com/soumaydutt/indianlingo) — building a Duolingo-style app for Indian languages: gamified lessons, starting English → Hindi, designed to scale to all major Indian languages · `TypeScript 99%` `CSS 1%`
+- [excalibur-web-access](https://github.com/soumaydutt/projects/tree/main/excalibur-web-access) — full-stack billing and customer-care platform for telecom/ISP providers: customer 360, invoicing, payments, collections and role-based access, on .NET 8 + React · `C# 52%` `TypeScript 47%`
+- [smart-pill-dispenser-app](https://github.com/soumaydutt/projects/tree/main/smart-pill-dispenser-app) — medication companion for patients and caregivers: next-dose dashboard, adherence tracking and dose history, built with Expo + React Native · `TypeScript 99%`
+- [ExplainableChess-main](https://github.com/soumaydutt/projects/tree/main/ExplainableChess-main) — teaches a small language model to explain chess like a human coach: Stockfish-labelled positions fine-tuned into GPT-2, so it says why a move works, not just what to play · `Python 100%`
 
 ---
 
