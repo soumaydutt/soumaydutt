@@ -78,6 +78,16 @@
 
 ---
 
+### 📂 Projects
+
+- [indianlingo](https://github.com/soumaydutt/indianlingo) — Duolingo-style app for learning Indian languages · `TypeScript` `CSS`
+- [mail-intelligence-platform](https://github.com/soumaydutt/mail-intelligence-platform) · `Java` `TypeScript` `JavaScript`
+- [LLD-practice](https://github.com/soumaydutt/LLD-practice) · `Java`
+- [timetable-manager](https://github.com/soumaydutt/timetable-manager) · `JavaScript` `CSS`
+- [Design-Bus-Seat-Visualiser-for-leetcode-contest-523-](https://github.com/soumaydutt/Design-Bus-Seat-Visualiser-for-leetcode-contest-523-) — visualiser for question 3 of the 523rd LeetCode contest · `HTML` `Java`
+
+---
+
 ### 🏙️ Contribution city
 
 <p align="center">
@@ -88,7 +98,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/soumaydutt">GitHub</a> ·
+  <a href="mailto:soumaydutt019@gmail.com">Gmail</a> ·
   <a href="https://www.linkedin.com/in/soumay-dutt-1851a73a5">LinkedIn</a>
 </p>
 
