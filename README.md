@@ -1,10 +1,4 @@
-<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Soumay</h1>
-
-<h3 align="center">Backend Engineer · Systems Thinker · Builder</h3>
-
-<p align="center">
-  I build things that scale, tools that developers love, and AI that actually does something useful.
-</p>
+<img src="./assets/banner.svg" alt="Hey, I'm Soumay — Backend Engineer · Systems Thinker · Builder" width="100%" />
 
 <p align="center">
   <code>Java</code> · <code>Spring Boot</code> · <code>TypeScript</code> · <code>Go</code> · <code>Kubernetes</code> · <code>AI / MCP</code>
