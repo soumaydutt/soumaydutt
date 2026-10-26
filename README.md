@@ -15,7 +15,9 @@
 - ⚙️ Backend systems, and the observability tools around them.
 - 🧠 Distributed systems, infrastructure, and AI agents.
 - 🛠️ I like understanding how things work under the hood.
-- 📚 Currently exploring: `Rust` · `Flyway` · `MySQL → PostgreSQL migration` · `LLM abliteration`
+- 📚 Currently exploring:
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=D180FF&width=500&lines=Rust;Flyway;MySQL+%E2%86%92+PostgreSQL+migration;LLM+abliteration" alt="Currently exploring: Rust, Flyway, MySQL to PostgreSQL migration, LLM abliteration" />
 
 <details>
 <summary><b>🧰 toolbox</b> — click to open</summary>
