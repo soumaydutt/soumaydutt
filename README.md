@@ -95,9 +95,7 @@
 
 ### 💻 Languages
 
-Across all my public repos (forks excluded, by code bytes):
-
-`TypeScript 44.6%` · `Java 33.9%` · `C# 11.7%` · `JavaScript 6.5%` · `Python 1.3%` · `PLpgSQL 0.7%` · `HTML 0.5%` · `Go 0.4%` · `CSS 0.3%` · `Dockerfile 0.1%` · `Shell 0.0%`
+<img src="./assets/languages-card.svg" alt="Languages across all public repos, forks excluded, by code bytes: TypeScript 44.6%, Java 33.9%, C# 11.7%, JavaScript 6.5%, Python 1.3%, PLpgSQL 0.7%, HTML 0.5%, Go 0.4%, CSS 0.3%, Dockerfile 0.1%, Shell 0.0%" />
 
 ---
 
