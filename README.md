@@ -115,5 +115,5 @@
 </p>
 
 <p align="center">
-  <i>Less hype. More shipped code. 🚀</i>
+  <i>More hype. More shipped code. 🚀</i>
 </p>
